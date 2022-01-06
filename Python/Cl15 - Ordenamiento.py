@@ -4,7 +4,7 @@
 # Ordenamientos de números, ascendente y descendete.
 
 
-# Ordenamiento por Burbuja (Bubblesort)
+# Ordenamiento por Selección (Selectsort)
 
 """
 
